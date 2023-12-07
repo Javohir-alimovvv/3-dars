@@ -1,0 +1,47 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ */
+
+
+
+ .container{
+    max-width: 1000px;
+    margin:0 auto;
+    background-color: aqua;
+    /* margin-top: 100px; */
+    padding: 20px;
+ }
+ .dilshod{
+    width: 200px;
+    height: 200px;
+    /* background-color: red; */
+    display: inline-block;
+ }
+ .jurabek{
+    width: 300px;
+    height: 300px;
+    /* background-color: yellow; */
+    display: inline-block;
+    margin: 0 40px;
+ }
+ .sardor{
+    width: 400px;
+    height: 400px;
+    /* background-color: green; */
+    display: inline-block;
+ }
+ .dili{
+    width: 190px;
+    height: 190px;
+ }
+ .jura{
+    width: 290px;
+    height: 290px;
+ }
+ .sadik{
+    width: 390px;
+    height: 390px;
+ }
